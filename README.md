@@ -25,11 +25,11 @@ pass : 123456
 
 ```
 
-> Android native version
+> Android native version, download APK files [here](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/android.apk)
 
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-android.png?raw=true)
 
-download APK files [here](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/android.apk)
+
 
 ## FEATURE
 
