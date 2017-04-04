@@ -16,17 +16,13 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 
 ```
 
-- JWT authentication
+- Hybrid mobile framework
 - Login, Logout, Register
 - CRUD example
-- artisan serve built in
+- axios
+- 
 
 ```
-
-## Infos
-* Using [Quasar Framework](http://quasar-framework.org/)
-* Using [Quasar Admin Template](https://github.com/odranoelBR/vue-quasar-admin-example/)
-
 
 ## Demo Build Setup
 
@@ -41,3 +37,8 @@ npm run dev
 npm run build
 
 ```
+
+## Infos
+
+* Using [Quasar Framework](http://quasar-framework.org/)
+* Using [Quasar Admin Template](https://github.com/odranoelBR/vue-quasar-admin-example/)
