@@ -10,7 +10,7 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
 
 
-> Android version
+> Android native version
 
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-android.png?raw=true)
 
