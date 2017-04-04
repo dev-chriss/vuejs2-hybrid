@@ -13,7 +13,7 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
 
 
-> Android native version (cordova wrapper), download APK files [here](http://vuejs2-hybrid.setyawan.pro/vuejs2-hybrid-android.apk)
+> Android native version (cordova wrapper), download APK files [here](http://vuejs2-hybrid.setyawan.pro/download/vuejs2-hybrid-android.apk)
 
 APK File have a big filesize because cordova-plugin-crosswalk-webview (around 30mb), will be needed for older version of android 
 
