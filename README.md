@@ -10,7 +10,7 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
 
 
-> Android native version, download APK files 
+> Android native version, download APK files [here](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/android.apk)
 
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-android.png?raw=true)
 
@@ -47,7 +47,7 @@ npm run build
 
 ``` bash
 
-http://vuejs2-hybrid.setyawan.pro
+<a href="http://vuejs2-hybrid.setyawan.pro" target="_blank"> vuejs2-hybrid.setyawan.pro </a>
 
 admin login 
 email : admin@admin.com
