@@ -9,6 +9,17 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 
 > Web version, <a href="http://vuejs2-hybrid.setyawan.pro" target="_blank" > vuejs2-hybrid.setyawan.pro </a>
 
+
+![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
+
+
+> Android native version (cordova wrapper), download APK files [here](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/android.apk)
+
+![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-android.png?raw=true)
+
+APK File have a big filesize because cordova-plugin-crosswalk-webview, its needed for older android
+
+## LOGIN INFORMATION
 ``` bash
 
 admin login 
@@ -22,15 +33,6 @@ pass : 123456
 *please dont change the user credential. thanks.
 
 ```
-
-![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
-
-
-> Android native version (cordova wrapper), download APK files [here](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/android.apk)
-
-![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-android.png?raw=true)
-
-
 
 ## FEATURE
 
