@@ -36,7 +36,8 @@ user role
 email : user@user.com
 pass : 123456
 
-*please dont change the user credential. thanks.
+*please dont change this two users. 
+u can add or modify other users. thanks.
 
 ```
 
