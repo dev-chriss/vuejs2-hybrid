@@ -45,9 +45,9 @@ npm run build
 
 ## Live Demo
 
-``` bash
-
 <a href="http://vuejs2-hybrid.setyawan.pro" target="_blank"> vuejs2-hybrid.setyawan.pro </a>
+
+``` bash
 
 admin login 
 email : admin@admin.com
