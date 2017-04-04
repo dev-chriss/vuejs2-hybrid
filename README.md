@@ -1,6 +1,6 @@
 # vuejs2-hybrid
 
-This is a demo using Vuejs 2.2
+This is a demo using Vuejs 2.2 and Quasar Framework
 
 For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 
