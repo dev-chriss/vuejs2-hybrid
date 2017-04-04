@@ -45,7 +45,7 @@ npm run build
 
 ## Live Demo
 
-<a href="http://vuejs2-hybrid.setyawan.pro" target="_blank"> vuejs2-hybrid.setyawan.pro </a>
+<a href="http://vuejs2-hybrid.setyawan.pro" target="_blank" > vuejs2-hybrid.setyawan.pro </a>
 
 ``` bash
 
