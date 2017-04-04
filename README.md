@@ -7,7 +7,7 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 
 > Web version
 
-![](https://github.com/chrissetyawan/vuejs2-hybrid/capture-vuejs2-hybrid.png?raw=true)
+![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
 
 ## Demo Build Setup
 
