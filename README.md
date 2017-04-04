@@ -1,6 +1,6 @@
 # vuejs2-hybrid
 
-Responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.2
+Responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.2 and Quasar Framework
 
 For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 
