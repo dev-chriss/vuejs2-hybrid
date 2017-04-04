@@ -2,7 +2,7 @@
 
 Responsive websites, hybrid mobile Apps and Electron apps using same code, with VueJs 2.2 and Quasar Framework
 
-For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
+For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/) with JWT authentication
 
 
 
