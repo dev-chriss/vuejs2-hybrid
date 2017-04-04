@@ -5,11 +5,9 @@ Responsive websites, hybrid mobile Apps and Electron apps using same code, with 
 For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 
 
-> Web version
+> Web version, <a href="http://vuejs2-hybrid.setyawan.pro" target="_blank" > vuejs2-hybrid.setyawan.pro </a>
 
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
-
-<a href="http://vuejs2-hybrid.setyawan.pro" target="_blank" > vuejs2-hybrid.setyawan.pro </a>
 
 ``` bash
 
