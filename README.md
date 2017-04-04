@@ -32,26 +32,12 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080 (mac or linux)
+# serve with hot reload at localhost:8080
 npm run dev
-
-# serve with hot reload at localhost:8080 (only windows)
-node build/dev-server.js
 
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests: coming soon
-# npm run unit
-
-# run e2e tests: coming soon
-# npm run e2e
-
-# run all tests: comping soon
-# npm test
 ```
 
 
