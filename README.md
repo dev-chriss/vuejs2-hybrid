@@ -22,9 +22,9 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 
 - Hybrid mobile framework
 - Login, Logout, Register
-- CRUD example
-- axios
-- 
+- CRUD Example
+- HTTP requests with Axios
+- Simple User Management system (superadmin, admin, user)
 
 ```
 
