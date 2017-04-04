@@ -10,7 +10,7 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-hybrid.png?raw=true)
 
 
-> Android native version
+> Android native version, download APK files 
 
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-android.png?raw=true)
 
@@ -26,6 +26,7 @@ For backend, im using [Lumen 5.4](https://github.com/chrissetyawan/lumen54-jwt/)
 - HTTP requests with Axios
 - Simple User Management system (superadmin, admin, user)
 
+
 ```
 
 ## Demo Build Setup
@@ -39,6 +40,24 @@ npm run dev
 
 # build for production with minification
 npm run build
+
+```
+
+## Live Demo
+
+``` bash
+
+http://vuejs2-hybrid.setyawan.pro
+
+admin login 
+email : admin@admin.com
+pass : 123456
+
+user login
+email : user@user.com
+pass : 123456
+
+*please dont change the user credential. thanks.
 
 ```
 
