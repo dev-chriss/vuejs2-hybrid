@@ -1,10 +1,13 @@
 import store from 'configs/store'
 export default function (Vue) {
   Vue.auth = {
-    login (user, token, expiration) {
-      localStorage.setItem('user', user)
+    setToken (token, expiration) {
       localStorage.setItem('token', token)
       localStorage.setItem('expiration', expiration)
+    },
+
+    setUserAuth (user) {
+      localStorage.setItem('user', user)
     },
 
     getToken () {

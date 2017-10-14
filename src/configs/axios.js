@@ -2,11 +2,9 @@ import axios from 'axios'
 import { Loading } from 'quasar'
 
 var axiosInstance = axios.create({
+  // baseURL: 'http://lumen55.setyawan.pro/api/'
   baseURL: 'http://localhost:8000/api/'
-  // baseURL: 'http://lumen54.setyawan.pro/api/'
 })
-
-// axiosInstance.defaults.timeout = 2500;
 
 axiosInstance.interceptors.request.use(function (config) {
   config.headers.Authorization = 'Bearer ' + localStorage.getItem('token')

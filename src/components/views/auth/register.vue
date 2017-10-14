@@ -159,7 +159,8 @@
 
         this.$http.post('register', qs.stringify(data))
         .then(response => {
-            this.$auth.login(JSON.stringify(response.data.data.user), response.data.data.token, response.data.data.expired_at)
+            this.$auth.setToken(response.data.data.token, response.data.data.expired_at)
+            this.$auth.setUserAuth(JSON.stringify(response.data.data.user))
             this.$store.state.authUser = response.data.data.user
             this.setLayoutNeeded(true)
             this.setIsLoginPage(false)

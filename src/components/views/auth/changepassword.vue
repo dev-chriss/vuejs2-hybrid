@@ -108,7 +108,7 @@
 
         this.$http.put('user/password', qs.stringify(data))
         .then(response => {
-          console.log(response)
+          // console.log(response)
           this.reset()
           Dialog.create({ message: ' Password updated!' })
         })

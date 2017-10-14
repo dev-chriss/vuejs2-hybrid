@@ -16,7 +16,7 @@
       <!-- <a @click="setMobileMode(true)" class="text-white gt-sm inline" target="_blank">
         <i class="fa fa-3x fa-mobile"></i> <q-tooltip>Mobile version</q-tooltip>
       </a> -->
-      <a href="https://github.com/chrissetyawan" class="text-white" target="_blank">
+      <a href="https://github.com/chrissetyawan/vuejs2-hybrid/" class="text-white" target="_blank">
         <i class="fa fa-2x fa-github"></i>
       </a>
     </div>
