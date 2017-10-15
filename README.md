@@ -28,8 +28,8 @@ APK File have a big filesize because cordova-plugin-crosswalk-webview (around 30
 ## LOGIN INFORMATION
 ``` bash
 
-* please dont change this two users credential.
-* u can add new user or modify other users.
+please dont change this two users credential.
+u can add new user or modify other users.
 
 superadmin role 
 email : superadmin@fake.com
