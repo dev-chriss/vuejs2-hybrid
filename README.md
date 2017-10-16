@@ -15,15 +15,25 @@ For backend, im using [Lumen 5.5 REST API](https://github.com/chrissetyawan/lume
 
 > Android version (cordova wrapper)
 
-Download APK files [here](http://vuejs2-hybrid.setyawan.pro/download/vuejs2-hybrid-android.apk)
-
 for wrapper tutorial please click http://quasar-framework.org/guide/cordova-wrapper.html
 
 APK File have a big filesize because cordova-plugin-crosswalk-webview (around 30mb), will be needed for older version of android 
 
 ![](https://github.com/chrissetyawan/vuejs2-hybrid/blob/master/capture-vuejs2-android.png?raw=true)
 
+## Demo Build Setup
 
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+```
 
 ## LOGIN INFORMATION
 ``` bash
@@ -55,19 +65,7 @@ pass : 123456
 
 ```
 
-## Demo Build Setup
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-```
 
 
 ## Infos
