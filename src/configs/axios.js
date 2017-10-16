@@ -2,28 +2,26 @@ import axios from 'axios'
 import { Loading } from 'quasar'
 
 var axiosInstance = axios.create({
-  // baseURL: 'http://lumen55.setyawan.pro/api/'
+  // baseURL: 'http://lumen55.setyawan.pro:8000/api/'
   baseURL: 'http://localhost:8000/api/'
 })
 
-axiosInstance.interceptors.request.use(function (config) {
+let loadFunction = config => {
   config.headers.Authorization = 'Bearer ' + localStorage.getItem('token')
   Loading.show()
   return config
-})
-
-axiosInstance.interceptors.request.use(function (config) {
-  Loading.show()
-  return config
-})
-
-axiosInstance.interceptors.response.use(function (response) {
+}
+let finishFunction = response => {
   Loading.hide()
   return response
-}, function (error) {
+}
+let errorFunction = error => {
   Loading.hide()
   return Promise.reject(error)
-})
+}
+
+axiosInstance.interceptors.request.use(loadFunction)
+axiosInstance.interceptors.response.use(finishFunction, errorFunction)
 
 export default (Vue) => {
   Object.defineProperties(Vue.prototype, {
